@@ -1,0 +1,16 @@
+body {
+    background-color: limegreen;
+}
+#bobafett {
+    width: 256px;
+    height: 256px;
+}
+#bobatitle {
+        display: block;
+    text-align: center;
+    width: 196px;
+    height: 32px;
+    font-size: 15;
+    background-color: white;
+    color: black;
+}
